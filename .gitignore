@@ -2,5 +2,5 @@
 .idea
 /bin
 /lib
-/database_folder/
+/database_folder/test.db
 .env
